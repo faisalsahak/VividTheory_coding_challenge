@@ -1,0 +1,9 @@
+Instructions:
+
+  - open command line interface, navigate into client and server folders
+  - in both folders run "npm install", without the quotes, to install all the dependencies required to run the app
+  - after the dependencies have been installed
+  	- in the server folder run "node index.js", without the quotes to run the server
+  	- in the client folder run "npm start", without the quotes to run the react app
+  	- navigate to a chrome browser and type "localhost:3000", without the quotes to be redirected to the application.
+  	- Thats all.
